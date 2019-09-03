@@ -27,7 +27,7 @@ I will be updating the code over the next few weeks and adding more/clearer exam
 
 - Get Programming With F# by Isaac Abraham (Manning Publications)
 - Stylish F# by Kit Eason (Apress)
-- Domain Modelling Made Functional by Scott Wlaschen
+- Domain Modelling Made Functional by Scott Wlaschin (Pragmatic Programming)
 
 *Example Code/Exercises*
 
