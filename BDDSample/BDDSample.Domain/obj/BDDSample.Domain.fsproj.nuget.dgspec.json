@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\Code\\BDDSample\\BDDSample.Domain\\BDDSample.Domain.fsproj": {}
+  },
+  "projects": {
+    "d:\\Code\\BDDSample\\BDDSample.Domain\\BDDSample.Domain.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Code\\BDDSample\\BDDSample.Domain\\BDDSample.Domain.fsproj",
+        "projectName": "BDDSample.Domain",
+        "projectPath": "d:\\Code\\BDDSample\\BDDSample.Domain\\BDDSample.Domain.fsproj",
+        "packagesPath": "C:\\Users\\Ian\\.nuget\\packages\\",
+        "outputPath": "d:\\Code\\BDDSample\\BDDSample.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "FSharp.Data": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "FSharp.Json": {
+              "target": "Package",
+              "version": "[0.3.7, )"
+            },
+            "FsUnit": {
+              "target": "Package",
+              "version": "[3.4.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.0, )"
+            },
+            "Thoth.Json.Giraffe": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Unquote": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
