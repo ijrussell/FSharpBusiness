@@ -36,7 +36,7 @@ I will be updating the code over the next few weeks and adding more/clearer exam
 - https://github.com/ChrisMarinos/FSharpKoans#functional-koans---f
 
 
-- Interesting Libraries/Tools
+*Interesting Libraries/Tools*
 
 - Paket (Package Management)
 - FAKE (Build Tool)
