@@ -2,13 +2,13 @@
 
 The BDDSample folder contains a solution with files showing a number of F# Functional programming concepts:
 
-- Types
-- Functions
+- Types (Records & Tuples {AND} - Discriminated Union {OR})
+- Functions (Signatures)
 - Function Composition
 - Currying & Partial Application
 - Option vs NULL
 - Result vs Exceptions
-- Type Providers
+- Type Providers (Csv & Json)
 - MailboxProcessor
 
 The code should work in FSI (F# Interactive) in VS2019, JetBrains Rider and VSCode with the Ionide extension).
